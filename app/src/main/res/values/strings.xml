@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RegionCitySelector</string>
+    <string name="all_ukraine">Вся Украина</string>
+    <string name="all_cities">Все города</string>
+    <string name="search">Поиск</string>
+    <string name="cancel">Отмена</string>
+    <string name="ok">OK</string>
+    <string name="region">Область</string>
+    <string name="city">Область/город</string>
+    <string name="region_first">Сначала выберите область</string>
+</resources>
